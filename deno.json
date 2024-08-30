@@ -1,0 +1,7 @@
+{
+  "unstable": ["kv"],
+  "imports": {
+    "./src/": "./build/dev/javascript/dinostore/",
+    "./gleam_stdlib/": "./build/dev/javascript/gleam_stdlib/"
+  }
+}

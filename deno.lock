@@ -1,0 +1,15 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "jsr:@std/ulid": "jsr:@std/ulid@1.0.0",
+      "jsr:@std/ulid@^1": "jsr:@std/ulid@1.0.0"
+    },
+    "jsr": {
+      "@std/ulid@1.0.0": {
+        "integrity": "d41c3d27a907714413649fee864b7cde8d42ee68437d22b79d5de4f81d808780"
+      }
+    }
+  },
+  "remote": {}
+}
